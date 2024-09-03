@@ -1,5 +1,5 @@
-## Hi there 👋
 
+I am Soham from Kolkata , a 3rd-year student of MCKV Institute of Engineering, pursuing a degree in engineering while cultivating his passion for full-stack web development. Currently, he is honing his front-end skills through hands-on projects utilizing HTML, CSS, JavaScript, Bootstrap, MongoDB, and ReactJS, solidifying his foundation in building dynamic and interactive web applications.
 <!--
 **SohamSarkar025/SohamSarkar025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
