@@ -1,8 +1,16 @@
 
 I am Soham from Kolkata , a 3rd-year student of MCKV Institute of Engineering, pursuing a degree in engineering while cultivating his passion for full-stack web development. Currently, he is honing his front-end skills through hands-on projects utilizing HTML, CSS, JavaScript, Bootstrap, MongoDB, and ReactJS, solidifying his foundation in building dynamic and interactive web applications.
-<!--
-**SohamSarkar025/SohamSarkar025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**SohamSarkar025/SohamSarkar025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/SohamSarkar025/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SohamSarkar025&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/SohamSarkar025/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamSarkar025&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/SohamSarkar025/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SohamSarkar025&repo=github-readme-stats&theme=tokyonight" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
