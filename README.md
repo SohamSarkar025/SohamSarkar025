@@ -36,7 +36,7 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
 ###
 
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+  ![image](https://github.com/user-attachments/assets/02dcc308-c23e-4603-a71e-ce2748fe0958)
 </p>
 
 
