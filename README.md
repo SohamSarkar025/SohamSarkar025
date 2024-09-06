@@ -26,29 +26,31 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-### My Stats:
-
+###
+<p align="left">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&width=450&duration=1500&pause=1000&lines=My+Stats;Software+Engineer" width="auto" height="35"/>
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SohamSarkar025&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamSarkar025&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-![image](https://github.com/user-attachments/assets/ccbd14f4-42ea-4d53-97f8-2f2aa8a2ea3d)
-<p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="![image](https://github.com/user-attachments/assets/ccbd14f4-42ea-4d53-97f8-2f2aa8a2ea3d)
-"/>
+<p align="left">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&width=450&duration=1500&pause=1000&lines=My+Works;Full+Stack+Developer;Web+Developement" width="auto" height="35"/>
 </p>
-[<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo">](https://www.youtube.com/channel/UCN6CrXqug0IAXuiTU7jjXXQ) 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="left">
+ <img src="https://sohamsarkarofficial-portfolio.netlify.app/Portfolio-Web-Weather%20Work%20.jpg" height="400" alt="javascript logo"  />
+  <img width="12" />
+ <img src="https://sohamsarkarofficial-portfolio.netlify.app/we-chat-portfolio.jpg" height="400" alt="javascript logo" />
+  <img width="12" />
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=My+Works;Software+Engineer" width="auto" height="35"/>
+</p>
+</div>
 
 ###
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
-<p align="right"><a href="###Hi there"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+<p align="right"><a href="### Hi there 👋"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
