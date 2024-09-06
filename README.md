@@ -34,11 +34,12 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
 </div>
 
 ###
-
+![image](https://github.com/user-attachments/assets/ccbd14f4-42ea-4d53-97f8-2f2aa8a2ea3d)
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src=""/>
+  <img alt="Coding GIF" width="300" height="auto" src="![image](https://github.com/user-attachments/assets/ccbd14f4-42ea-4d53-97f8-2f2aa8a2ea3d)
+"/>
 </p>
-
+[<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo">](https://www.youtube.com/channel/UCN6CrXqug0IAXuiTU7jjXXQ) 
 
 ###
 
