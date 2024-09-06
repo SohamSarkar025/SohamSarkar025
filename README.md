@@ -1,6 +1,6 @@
 ### Hi there 👋
  Web Developer | Problem Solver | Learner
-![Web Developer | Problem Solver | Learner]
+
 ![image](https://github.com/user-attachments/assets/02dcc308-c23e-4603-a71e-ce2748fe0958)
 [<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo">](https://www.youtube.com/channel/UCN6CrXqug0IAXuiTU7jjXXQ)  [<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo">](https://www.instagram.com/itsmesoham25/)  [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo">](srutidhara153@gmail.com)  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">](www.linkedin.com/in/soham-sarkar-85a5a6247)
 
@@ -45,3 +45,7 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
+<p align="right"><a href="###Hi there"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
