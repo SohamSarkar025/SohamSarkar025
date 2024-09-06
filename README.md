@@ -1,6 +1,9 @@
 ### Hi there 👋
  Web Developer | Problem Solver | Learner
-![Web Developer | Problem Solver | Learner](https://media.licdn.com/dms/image/v2/D5622AQErfVMkVtKivA/feedshare-shrink_800/feedshare-shrink_800/0/1725466861345?e=1728518400&v=beta&t=M3EQmbmwZLMZ1jhVNxAXtdzULVZLFyaaQmWk7hNDt1Y)
+![Web Developer | Problem Solver | Learner]
+![image](https://github.com/user-attachments/assets/02dcc308-c23e-4603-a71e-ce2748fe0958)
+
+
 
 I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Engineering, pursuing a degree in engineering while cultivating his passion for full-stack web development. Currently, he is honing his front-end skills through hands-on projects utilizing HTML, CSS, JavaScript, Bootstrap, MongoDB, and ReactJS, solidifying his foundation in building dynamic and interactive web applications.
 
