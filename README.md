@@ -28,7 +28,7 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
 
 ###
 <p align="left">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&width=450&duration=1500&pause=1000&lines=My+Stats;Software+Engineer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&width=450&duration=1500&pause=1000&lines=My+Stats;" width="auto" height="35"/>
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SohamSarkar025&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -37,16 +37,13 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
 
 ###
 <p align="left">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&width=450&duration=1500&pause=1000&lines=My+Works;Full+Stack+Developer;Web+Developement" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&width=450&duration=1500&pause=1000&lines=My+Works;Check+it+out+now+!;" width="auto" height="35"/>
 </p>
 <div align="left">
  <img src="https://sohamsarkarofficial-portfolio.netlify.app/Portfolio-Web-Weather%20Work%20.jpg" height="400" alt="javascript logo"  />
   <img width="12" />
  <img src="https://sohamsarkarofficial-portfolio.netlify.app/we-chat-portfolio.jpg" height="400" alt="javascript logo" />
   <img width="12" />
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=My+Works;Software+Engineer" width="auto" height="35"/>
-</p>
 </div>
 
 ###
