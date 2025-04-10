@@ -40,12 +40,12 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&width=450&duration=1500&pause=1000&lines=My+Works;Check+it+out+now+!;" width="auto" height="35"/>
 </p>
 <div>
- <img src="https://sohamsarkarofficial-portfolio.netlify.app/Portfolio-Web-Weather%20Work%20.jpg" height="400" alt="javascript logo"  />
-  <img width="200" />
- <img src="https://sohamsarkarofficial-portfolio.netlify.app/we-chat-portfolio.jpg" height="400" alt="javascript logo" />
-  <img width="200" />
- <img src="https://github.com/user-attachments/assets/2a3f6b20-1c80-4403-8d20-4760ee985617" height="400" alt="javascript logo" align="center"/>
-  <img width="400" />
+ <img src="https://sohamsarkarofficial-portfolio.netlify.app/Portfolio-Web-Weather%20Work%20.jpg" height="400" alt="javascript logo" width="400" />
+  
+ <img src="https://sohamsarkarofficial-portfolio.netlify.app/we-chat-portfolio.jpg" height="400" alt="javascript logo" width="400"/>
+  
+ <img src="https://github.com/user-attachments/assets/2a3f6b20-1c80-4403-8d20-4760ee985617" height="400" alt="javascript logo" align="center" width="400"/>
+  
 </div>
 
 
