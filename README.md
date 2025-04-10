@@ -44,8 +44,10 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
   <img width="12" />
  <img src="https://sohamsarkarofficial-portfolio.netlify.app/we-chat-portfolio.jpg" height="400" alt="javascript logo" />
   <img width="12" />
+ <img src="https://github.com/user-attachments/assets/2a3f6b20-1c80-4403-8d20-4760ee985617" height="400" alt="javascript logo" />
+  <img width="12" />
 </div>
-![Dashboard 1](https://github.com/user-attachments/assets/9b14c644-3165-4f04-8697-9a95d6f45429)
+
 
 
 ###
