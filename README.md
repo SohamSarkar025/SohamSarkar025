@@ -10,7 +10,7 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
 
 ### I am Skilled with
 
-<div style="display: flex; align-items: center; gap: 16px; font-family: Arial, sans-serif; font-size: 12px;">
+<div style="display: flex; align-items: center; gap: 16; font-family: Arial, sans-serif; font-size: 12;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
     <span>JavaScript</span>
@@ -56,6 +56,8 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
     <span>MongoDB</span>
   </div>
 </div>
+
+
 
 
 
