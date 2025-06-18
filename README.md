@@ -10,54 +10,62 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
 
 ### I am Skilled with
 
-<div style="display: flex; align-items: center; gap: 16; font-family: Arial, sans-serif; font-size: 12;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-    <span>JavaScript</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-    <span>TypeScript</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-    <span>React</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-    <span>HTML5</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-    <span>CSS3</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-    <span>Python</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-    <span>C#</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-    <span>Node.js</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-    <span>Express</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-    <span>MySQL</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-    <span>MongoDB</span>
-  </div>
-</div>
-
-
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript"/>
+    <sub>JavaScript</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" title="TypeScript"/>
+    <sub>TypeScript</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React"/>
+    <sub>React</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5"/>
+    <sub>HTML5</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3"/>
+    <sub>CSS3</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
+    <sub>Python</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" title="C#"/>
+    <sub>C#</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" title="Node.js"/>
+    <sub>Node.js</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" title="Express"/>
+    <sub>Express</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL"/>
+    <sub>MySQL</sub>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" title="MongoDB"/>
+    <sub>MongoDB</sub>
+  </a>
+</p>
 
 
 
