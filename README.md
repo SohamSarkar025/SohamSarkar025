@@ -38,10 +38,10 @@ I am <b>Soham</b> from Kolkata , a 3rd-year student of MCKV Institute of Enginee
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&width=450&duration=1500&pause=1000&lines=My+Works;Check+it+out+now+!;" width="auto" height="35"/>
 </p>
 <div>
- <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EliteTube.png" height="400" alt="javascript logo" width="800" />
+ 
  <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/Talkify.png" height="400" alt="javascript logo" width="800"/>
  <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EcomWeb.png" height="400" alt="javascript logo" width="800"/>
-
+<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EliteTube.png" height="400" alt="javascript logo" width="800" />
 
 </div>
 
