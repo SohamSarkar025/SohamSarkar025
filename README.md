@@ -23,10 +23,12 @@ I'll soon be joining **Poornam Infovision** as a **Junior Software Engineer/SME*
 
 **DevOps & Infrastructure**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -36,9 +38,11 @@ I'll soon be joining **Poornam Infovision** as a **Junior Software Engineer/SME*
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=25&width=450&duration=1500&pause=1000&lines=Automating+Infrastructure;Check+out+my+Projects+!;" />
 </p>
 
-#### 🐧 DevOps Lab: [#100DaysOfDevOps](https://github.com/SohamSarkar025/100DaysOfDevOps)
-Automating AWS EC2 lifecycles with Bash and tracking billing via CLI.
+### 🚀 Ongoing Learning: #100DaysOfDevOps
+[![Challenge Progress](https://img.shields.io/badge/Challenge_Progress-17%25-green?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps)
+[![Last Update](https://img.shields.io/badge/Last_Update-Day_17_Terraform-blue?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps/tree/main/Day17)
 
+**Latest Milestone:** Successfully provisioned AWS infrastructure using Terraform and implemented State Management.
 #### 🛒 E-Commerce Engine: [NexusCommerce](https://github.com/SohamSarkar025/NexusCommerce)
 A full-stack scalable store built with MERN.
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EcomWeb.png" width="900" alt="Ecom Project Banner" />
