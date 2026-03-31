@@ -50,7 +50,7 @@ A full-stack scalable store built with MERN.
 #### 💬 Real-Time Chat: [Talkify](https://github.com/SohamSarkar025/Talkify)
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/Talkify.png" width="900" alt="Talkify Project Banner" />
 
-#### 🎥 Video Sharing: [Elite Tube](https://github.com/SohamSarkar025/EliteTube)
+#### 🎥 Video Sharing: [Elite Tube](https://github.com/SohamSarkar025/elite-tube)
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/elite-tube.png" width="900" alt="EliteTube Project Banner" />
 
 ---
