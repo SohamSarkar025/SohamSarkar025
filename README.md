@@ -51,7 +51,7 @@ A full-stack scalable store built with MERN.
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/Talkify.png" width="900" alt="Talkify Project Banner" />
 
 #### 🎥 Video Sharing: [Elite Tube](https://github.com/SohamSarkar025/EliteTube)
-<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EliteTube.png" width="900" alt="EliteTube Project Banner" />
+<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/elite-tube.png" width="900" alt="EliteTube Project Banner" />
 
 ---
 
