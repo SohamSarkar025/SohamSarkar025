@@ -1,7 +1,7 @@
 ### Hi there 👋
 **DevOps Enthusiast | Incoming Server Administrator | MERN Developer**
 
-![image](https://github.com/SohamSarkar025/SohamSarkar025/blob/main/L_B.jpg)
+![image](https://github.com/SohamSarkar025/SohamSarkar025/blob/main/1774009593297.jpg)
 
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">](https://www.linkedin.com/in/soham-sarkar-85a5a6247) [<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo">](https://www.youtube.com/channel/UCN6CrXqug0IAXuiTU7jjXXQ) [<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo">](https://www.instagram.com/itsmesoham25/) [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo">](mailto:srutidhara153@gmail.com) 
 
