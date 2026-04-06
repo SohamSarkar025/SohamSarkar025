@@ -5,10 +5,9 @@
 
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">](https://www.linkedin.com/in/soham-sarkar-85a5a6247) [<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo">](https://www.youtube.com/channel/UCN6CrXqug0IAXuiTU7jjXXQ) [<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo">](https://www.instagram.com/itsmesoham25/) [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo">](mailto:srutidhara153@gmail.com) 
 
-I am **Soham Sarkar** from Kolkata, a final-year student at MCKV Institute of Engineering. I am currently transitioning from **Full-Stack Development (MERN)** to **Infrastructure and DevOps**. 
+Passionate DevOps & Infrastructure Engineer transitioning from MERN Stack development to Enterprise-scale Automation. Currently focused on Automating Lab Lifecycles and mastering Linux-based Server Administration at Poornam Infovision.
 
-I'll soon be joining **Poornam Infovision** as a **Junior Software Engineer/SME**, focusing on **Server Administration**. My current goal is to automate lab lifecycles and master the Linux environment.
-
+I leverage my development background to write cleaner Infrastructure as Code (IaC) and build seamless CI/CD pipelines. My goal is to transform traditional server management into a modern, automated, and scalable platform-driven approach.
 ---
 
 ### 🛠️ My Tech Stack
