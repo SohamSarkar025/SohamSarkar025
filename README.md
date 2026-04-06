@@ -29,6 +29,8 @@ I'll soon be joining **Poornam Infovision** as a **Junior Software Engineer/SME*
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
 ---
@@ -39,10 +41,11 @@ I'll soon be joining **Poornam Infovision** as a **Junior Software Engineer/SME*
 </p>
 
 ### 🚀 Ongoing Learning: #100DaysOfDevOps
-[![Challenge Progress](https://img.shields.io/badge/Challenge_Progress-17%25-green?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps)
-[![Last Update](https://img.shields.io/badge/Last_Update-Day_17_Terraform-blue?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps/tree/main/Day17)
+[![Challenge Progress](https://img.shields.io/badge/Challenge_Progress-25%25-orange?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps)
+[![Last Update](https://img.shields.io/badge/Last_Update-Day_25_Kubernetes_Intro-blue?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps/tree/main/Day25)
 
-**Latest Milestone:** Successfully provisioned AWS infrastructure using Terraform and implemented State Management.
+**Latest Milestone:** Mastered Docker Architecture & Networking; Transitioned to Kubernetes Orchestration and Cluster Management.
+
 #### 🛒 E-Commerce Engine: [NexusCommerce](https://github.com/SohamSarkar025/NexusCommerce)
 A full-stack scalable store built with MERN.
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EcomWeb.png" width="900" alt="Ecom Project Banner" />
