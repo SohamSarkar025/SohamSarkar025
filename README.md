@@ -45,11 +45,11 @@ I leverage my development background to write cleaner Infrastructure as Code (Ia
 
 **Latest Milestone:** Mastered Docker Architecture & Networking; Transitioned to Kubernetes Orchestration and Cluster Management.
 
-#### 🛒 E-Commerce Engine: [NexusCommerce](https://github.com/SohamSarkar025/NexusCommerce)
+#### 🛒 E-Commerce Engine: [NexusCommerce](https://github.com/SohamSarkar025/Ecommerce)
 A full-stack scalable store built with MERN.
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EcomWeb.png" width="900" alt="Ecom Project Banner" />
 
-#### 💬 Real-Time Chat: [Talkify](https://github.com/SohamSarkar025/Talkify)
+#### 💬 Real-Time Chat: [Talkify](https://github.com/SohamSarkar025/fullstack-chat-app)
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/Talkify.png" width="900" alt="Talkify Project Banner" />
 
 #### 🎥 Video Sharing: [Elite Tube](https://github.com/SohamSarkar025/elite-tube)
