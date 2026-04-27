@@ -40,8 +40,8 @@ I leverage my development background to write cleaner Infrastructure as Code (Ia
 </p>
 
 ### 🚀 Ongoing Learning: #100DaysOfDevOps
-[![Challenge Progress](https://img.shields.io/badge/Challenge_Progress-32%25-orange?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps)
-[![Last Update](https://img.shields.io/badge/Last_Update-Day_32_Kubernetes_Ingress_Controler-blue?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps/tree/main/Day32)
+[![Challenge Progress](https://img.shields.io/badge/Challenge_Progress-47%25-green?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps)
+[![Last Update](https://img.shields.io/badge/Last_Update-Day_47_Process_&_Disk_Mgmt-blue?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps/tree/main/Day47)
 
 **Latest Milestone:** Mastered Docker Architecture & Networking; Transitioned to Kubernetes Orchestration and Cluster Management.
 
