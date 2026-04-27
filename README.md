@@ -51,9 +51,12 @@ Passionate DevOps Engineer with a solid foundation in MERN stack development. I 
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Works
 #### 🛒 E-Commerce Engine: [NexusCommerce](https://github.com/SohamSarkar025/Ecommerce)
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EcomWeb.png" width="900" alt="Ecom Project Banner" />
+
+#### 💬 Real-Time Chat: [Talkify](https://github.com/SohamSarkar025/fullstack-chat-app)
+<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/Talkify.png" width="900" alt="Talkify Project Banner" />
 
 #### 🎥 Video Sharing: [Elite Tube](https://github.com/SohamSarkar025/elite-tube)
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/elite-tube.png" width="900" alt="EliteTube Project Banner" />
