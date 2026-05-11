@@ -44,8 +44,8 @@ Passionate DevOps Engineer with a solid foundation in MERN stack development. I 
 ---
 
 ### 🚀 Ongoing Learning: #100DaysOfDevOps
-[![Challenge Progress](https://img.shields.io/badge/Challenge_Progress-48%25-green?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps)
-[![Last Update](https://img.shields.io/badge/Last_Update-Day_47_AWS_EBS_&_Process_Mgmt-blue?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps/tree/main/Day47)
+[![Challenge Progress](https://img.shields.io/badge/Challenge_Progress-61%25-brightgreen?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps)
+[![Last Update](https://img.shields.io/badge/Last_Update-Day_61_AWS_CodeBuild_&_Docker-blue?style=for-the-badge)](https://github.com/SohamSarkar025/100DaysOfDevOps/tree/main/Day61)
 
 **Current Milestone:** Completed advanced Linux system administration and core automation tools. Now transitioning into Cloud architecture using AWS (EC2, S3, IAM, and VPC management).
 
