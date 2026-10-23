@@ -52,17 +52,20 @@ Passionate DevOps Engineer with a solid foundation in MERN stack development. I 
 ---
 
 ### 🏆 Featured Works
-#### ☁️ DevOps Project: [End-to-End CI/CD Pipeline with Kubernetes](https://github.com/SohamSarkar025/flask-k8s-cicd)
+
+☁️ DevOps Project: End-to-End CI/CD Pipeline with Kubernetes
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/k8s-cicd-pipeline.png" width="900" alt="CI/CD Pipeline with Kubernetes Deployment Diagram" />
 
-#### 🛒 E-Commerce Engine: [NexusCommerce](https://github.com/SohamSarkar025/Ecommerce)
-<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/EcomWeb.png" width="900" alt="Ecom Project Banner" />
+A Python Flask app containerized with Docker, built and deployed automatically through GitHub Actions to a Minikube (Kubernetes) cluster on an AWS EC2 instance, with Prometheus + Grafana monitoring installed via Helm.
 
-#### 💬 Real-Time Chat: [Talkify](https://github.com/SohamSarkar025/fullstack-chat-app)
-<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/Talkify.png" width="900" alt="Talkify Project Banner" />
+Tech: Python Flask · Docker · GitHub Actions · Docker Hub · Kubernetes (Minikube) · AWS EC2 · Helm · Prometheus · Grafana
 
-#### 🎥 Video Sharing: [Elite Tube](https://github.com/SohamSarkar025/elite-tube)
-<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/elite-tube.png" width="900" alt="EliteTube Project Banner" />
+🌐 DevOps Project: Static Portfolio Deployment on AWS EC2
+<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/apache-ec2-deploy.png" width="900" alt="Static Portfolio Deployment on AWS EC2 Diagram" />
+
+A terminal-themed static portfolio (index.html, style.css, script.js) hosted on an Amazon Linux 2023 EC2 (t2.micro) instance in a public subnet of a VPC in ap-south-1. Apache HTTPD serves the site from /var/www/html on port 80, managed by systemd so it starts on boot. The Security Group is hardened: SSH (22) is open only to my IP, and HTTP (80) is open to the internet. Files are deployed over ssh/scp using a key pair.
+
+Tech: AWS EC2 · VPC · Internet Gateway · Security Groups · Apache HTTPD · systemd · Linux Administration
 
 ---
 
