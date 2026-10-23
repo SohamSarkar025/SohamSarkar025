@@ -53,8 +53,10 @@ Passionate DevOps Engineer with a solid foundation in MERN stack development. I 
 
 ### 🏆 Featured Works
 
-☁️ DevOps Project: End-to-End CI/CD Pipeline with Kubernetes
-<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/k8s-cicd-pipeline.png" width="900" alt="CI/CD Pipeline with Kubernetes Deployment Diagram" />
+<h4>☁️ DevOps Project: <a href="https://github.com/SohamSarkar025/flask-k8s-cicd">End-to-End CI/CD Pipeline with Kubernetes</a></h4>
+<a href="https://github.com/SohamSarkar025/flask-k8s-cicd">
+  <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/k8s-cicd-pipeline.png" width="900" alt="CI/CD Pipeline with Kubernetes Deployment Diagram" />
+</a>
 
 A Python Flask app containerized with Docker, built and deployed automatically through GitHub Actions to a Minikube (Kubernetes) cluster on an AWS EC2 instance, with Prometheus + Grafana monitoring installed via Helm.
 
