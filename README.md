@@ -52,7 +52,7 @@ Passionate DevOps Engineer with a solid foundation in MERN stack development. I 
 ---
 
 ### 🏆 Featured Works
-☁️ DevOps Project: End-to-End CI/CD Pipeline with Kubernetes
+#### ☁️ DevOps Project: [End-to-End CI/CD Pipeline with Kubernetes](https://github.com/SohamSarkar025/flask-k8s-cicd)
 <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/k8s-cicd-pipeline.png" width="900" alt="CI/CD Pipeline with Kubernetes Deployment Diagram" />
 
 #### 🛒 E-Commerce Engine: [NexusCommerce](https://github.com/SohamSarkar025/Ecommerce)
