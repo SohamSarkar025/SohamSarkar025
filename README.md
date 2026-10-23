@@ -62,8 +62,10 @@ A Python Flask app containerized with Docker, built and deployed automatically t
 
 Tech: Python Flask · Docker · GitHub Actions · Docker Hub · Kubernetes (Minikube) · AWS EC2 · Helm · Prometheus · Grafana
 
-🌐 DevOps Project: Static Portfolio Deployment on AWS EC2
-<img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/apache-ec2-deploy.png" width="900" alt="Static Portfolio Deployment on AWS EC2 Diagram" />
+<h4>🌐 DevOps Project: <a href="https://github.com/SohamSarkar025/apache-static-website-aws-deploy">Static Portfolio Deployment on AWS EC2</a></h4>
+<a href="https://github.com/SohamSarkar025/apache-static-website-aws-deploy">
+  <img src="https://github.com/SohamSarkar025/SohamSarkar025/blob/main/apache-ec2-deploy.png" width="900" alt="Static Portfolio Deployment on AWS EC2 Diagram" />
+</a>
 
 A terminal-themed static portfolio (index.html, style.css, script.js) hosted on an Amazon Linux 2023 EC2 (t2.micro) instance in a public subnet of a VPC in ap-south-1. Apache HTTPD serves the site from /var/www/html on port 80, managed by systemd so it starts on boot. The Security Group is hardened: SSH (22) is open only to my IP, and HTTP (80) is open to the internet. Files are deployed over ssh/scp using a key pair.
 
